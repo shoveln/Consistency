@@ -1,7 +1,7 @@
 {
     "parent": "item/template/block_minecart",
     "textures": {
-		"minecart": "entity/minecart",
+        "minecart": "entity/minecart",
         "up": "block/furnace_top",
         "north": "block/furnace_side",
         "south": "block/furnace_side",

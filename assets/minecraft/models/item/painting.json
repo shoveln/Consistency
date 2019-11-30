@@ -2,6 +2,6 @@
     "parent": "item/template/painting",
     "textures": {
         "painting": "painting/aztec",
-		"frame": "painting/back"
+        "frame": "painting/back"
     }
 }

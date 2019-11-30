@@ -1,6 +1,6 @@
 {
     "parent": "item/orientation/item_frame",
-	"elements": [
+    "elements": [
         {   "from": [ 3, 3, 8 ],
             "to": [ 13, 13, 8.5 ],
             "faces": {
@@ -48,5 +48,5 @@
                 "east":  { "uv": [  0,  3,  1, 13 ], "texture": "#wood" }
             }
         }
-	]
+    ]
 }

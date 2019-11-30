@@ -1,6 +1,6 @@
 {
     "parent": "item/template/minecart",
     "textures": {
-		"minecart": "entity/minecart"
+        "minecart": "entity/minecart"
     }
 }

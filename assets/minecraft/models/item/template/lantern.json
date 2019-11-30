@@ -1,5 +1,5 @@
 {
-    "parent": "item/orientation/lantern",
+    "parent": "item/orientation/pot",
     "elements": [
         {   "from": [ 5, 0, 5 ],
             "to": [ 11, 7, 11 ],

@@ -1,5 +1,5 @@
 {
-	"display": {
+    "display": {
         "gui": {
             "rotation": [ 30, 225, 0 ],
             "translation": [ 0, -1.7, 0 ],
