@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2019-12-4 - 1.14
+### Changed
+- Orientation on item frame, pot, lantern, torch, minecart
+- Cleaned up model files
+
 ## [1.0.0] - 2019-11-25 - 1.14
 ### Added
 - Armor Stand
