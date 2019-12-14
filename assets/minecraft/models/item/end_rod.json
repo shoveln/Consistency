@@ -1,0 +1,6 @@
+{
+    "parent": "item/template/end_rod",
+    "textures": {
+        "end_rod": "block/end_rod"
+    }
+}
