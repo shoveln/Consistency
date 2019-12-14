@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.0] - 2019-12-14 - 1.14
+### Added
+- Enchanting Table
+- Boats (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
+- End Rod
+
 ## [1.0.1] - 2019-12-4 - 1.14
 ### Changed
 - Orientation on item frame, pot, lantern, torch, minecart
