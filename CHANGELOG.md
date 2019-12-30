@@ -5,8 +5,6 @@
 - Enchanting Table
 - Boats (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
 - End Rod
-### Changed
-- 1.15: Adjusted chest texture to update to pack format 5
 
 ## 1.0.1 - 2019-12-4 - 1.14
 ### Changed
