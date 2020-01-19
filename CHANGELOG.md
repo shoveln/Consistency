@@ -1,30 +1,25 @@
 # Changelog
 
-## 1.1.0 - 2019-12-14 - 1.14/1.15
-### Added
-- Enchanting Table
-- Boats (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
-- End Rod
+## 2.1.0 - 2020-1-18
 ### Changed
-- 1.15: Adjusted chest texture to update to pack format 5
+- Enchanting Table remodeled to fix orientation issues
+- Boat model now has oars, changed orientation
 
-## 1.0.1 - 2019-12-4 - 1.14
-### Changed
-- Orientation on item frame, pot, lantern, torch, minecart
-- Cleaned up model files
-
-## 1.0.0 - 2019-11-25 - 1.14
+## 2.0.0 - 2019-12-14
 ### Added
 - Armor Stand
 - Banners
 - Beds
+- Boats (Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
 - Bell
 - Cake
 - Campfire
 - Cauldron
 - Comparator
 - Doors (Iron/Oak/Spruce/Birch/Jungle/Acacia/Dark Oak)
+- Enchanting Table
 - End Crystal
+- End Rod
 - Flower Pot
 - Glass Pane
 - Hopper
@@ -42,3 +37,5 @@
 - Torch (Normal/Redstone)
 - Tripwire Hook
 - Turtle Egg
+### Changed
+- 1.15: Adjusted chest texture to update to pack format 5
