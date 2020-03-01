@@ -1,8 +1,8 @@
 {
     "parent": "item/orientation/door",
     "elements": [
-        {   "from": [ 0, 16, 0 ],
-            "to": [ 3, 32, 16 ],
+        {   "from": [ 6.5, 16, 0 ],
+            "to": [ 9.5, 32, 16 ],
             "faces": {
                 "up":    { "uv": [ 13, 0, 16, 16 ], "texture": "#bottom" },
                 "north": { "uv": [  3, 0,  0, 16 ], "texture": "#top" },
@@ -11,8 +11,8 @@
                 "east":  { "uv": [ 16, 0,  0, 16 ], "texture": "#top" }
             }
         },
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 3, 16, 16 ],
+        {   "from": [ 6.5, 0, 0 ],
+            "to": [ 9.5, 16, 16 ],
             "faces": {
                 "down":  { "uv": [ 13, 0, 16, 16 ], "texture": "#bottom" },
                 "north": { "uv": [  3, 0,  0, 16 ], "texture": "#bottom" },
