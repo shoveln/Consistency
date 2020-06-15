@@ -12,18 +12,18 @@
             "scale": [ 0.25, 0.25, 0.25 ]
         },
         "fixed": {
-            "rotation": [ 0, 90, 0 ],
-            "translation": [ 4, 0, 0 ],
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 3, -6 ],
             "scale": [ 0.5, 0.5, 0.5 ]
         },
         "thirdperson_righthand": {
-            "rotation": [ 75, 225, 0 ],
-            "translation": [ -4.25, 6.6, -1.1 ],
+            "rotation": [ 75, 135, 0 ],
+            "translation": [ 4.25, 6.6, -1.1 ],
             "scale": [ 0.375, 0.375, 0.375 ]
         },
         "firstperson_righthand": {
-            "rotation": [ 0, 225, 0 ],
-            "translation": [ -1.5, 1.5, 0 ],
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 5, 0, -6 ],
             "scale": [ 0.40, 0.40, 0.40 ]
         }
     }
