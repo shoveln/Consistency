@@ -1,5 +1,18 @@
 # Consistency
-A Minecraft resource pack that changes some item models from sprites into their block representation. Compatible with most texture packs.
+A Minecraft resource pack that changes some item models from sprites into their block representation. Compatible with other texture packs, as long as they don't edit block/item models.
 
 ## Installation
-Downloads can be found on [Curseforge](https://www.curseforge.com/minecraft/texture-packs/consistency)
+### Curseforge
+Download links are hosted on [Curseforge](https://www.curseforge.com/minecraft/texture-packs/consistency).
+### Manual installation
+Navigate to the resourcepacks folder in your Minecraft 1.14 installation:
+
+```
+$ git clone --single-branch --branch 1.14 https://github.com/shoveln/Consistency
+```
+
+To update to newer versions:
+
+```
+$ git pull origin 1.14
+```
