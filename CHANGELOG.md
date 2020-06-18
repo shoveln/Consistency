@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.3.0 - 2020-6-17
+### Added
+- Skulls (Player/Zombie/Creeper/Skeleton/Wither Skeleton/Ender Dragon)
+### Changed
+- Bed, lever, comparator, repeater, campfire 1st/3rd person rotations
+- Boat oars no longer use duplicate textures, model changed to better fit into GUI, new orientation
+- Tripwire hook model translated to center, updated orientation
+
 ## 2.2.0 - 2020-4-8
 ### Added
 - Brewing stand
